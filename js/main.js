@@ -1,1 +1,1 @@
-console.log="hola que tal";
+console.log="hola que tal, como estás?";
